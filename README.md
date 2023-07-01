@@ -1,0 +1,2 @@
+# .github
+DecentStake profile.
